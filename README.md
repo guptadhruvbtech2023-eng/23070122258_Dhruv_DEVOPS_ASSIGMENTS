@@ -42,3 +42,7 @@ To understand the basic Git workflow using GitHub.
 
 This assignment helped me understand the basic Git workflow and how to upload changes to GitHub.
 
+\### Assignment Status
+
+\- Assignment 1: Completed
+
